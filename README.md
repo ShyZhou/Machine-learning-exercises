@@ -8,3 +8,5 @@ Ex2 - Logistic Regression
 Ex3 - Multi-class Classification and Neural Networks
 
 Ex4 - Neural Networks Learning
+
+Ex5 - Regularized Linear Regression and Bias v.s. Variance
