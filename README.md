@@ -14,3 +14,5 @@ Ex5 - Regularized Linear Regression and Bias v.s. Variance
 Ex6 - Support Vector Machines
 
 Ex7 - K-means Clustering and Principal Component Analysis
+
+Ex8 - Anomaly Detection and Recommender Systems
